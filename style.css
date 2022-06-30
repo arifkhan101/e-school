@@ -1,0 +1,137 @@
+
+.e-school{
+    width: 1440px;
+    height: 576px;
+    background-color: #F0FFF0; 
+}
+.navbar-brand{
+    padding-left: 135px;
+}
+.logo{
+    width: 198.07px;
+    height: 59px;
+    
+}
+.navbar{
+    width: 100%;
+}
+.navbar-nav{
+    padding-right: 135px;
+}
+.nav-link{
+    margin-left: 25px;
+}
+.sign-in{
+    width: 104px;
+    height: 43px;
+    background-color:  #21B573;
+    border-radius: 33px;
+    border: none;
+    color: #FFFFFF;
+    
+}
+.col-md-6{
+    padding-top: 30px;
+}
+.orange{
+    color:  #FD511A;
+   
+}
+.greenhead{
+    color: #21B573;
+}
+.get-started{
+    width: 143px;
+    height: 43px;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: #FFFFFF;
+    
+    
+}
+.illustration{
+    height: 346px;
+    width: 554px;
+}
+.col1{
+    padding-left: 135px;
+}
+.categories{
+    padding-top: 50px;
+}
+.cat-img{
+    width: 66px;
+    height: 85;
+  
+}
+.cat-1, .cat-2, .cat-3, .cat-4{
+   width: 270px;
+   height: 270px;
+   
+   border-radius: 10px;
+   
+   
+}
+.cat-1, .cat-3, .cat-4{
+    background-color: #F8FFFB;
+    ;
+}
+.cat-2{
+    box-shadow: 0px 5px 20px;
+    background-color: #FFFFFF;
+}
+h2{
+    padding-top: 50px;
+}
+.courses{
+    padding-top: 50px;
+    background-color: 
+    #FFFFFF;
+    
+}
+.card{
+    border-radius: 18px;
+    box-shadow: 0 10 40px;
+    background-color: white;
+}
+.Buy-Courses{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 137px;
+    height: 35px;
+    border: none;
+    color: #FFFFFF;
+
+}
+.icon{
+    height: 20px;
+    width: 18px;
+    left: 3px;
+    top: 2px;
+    border-radius: 0px;
+}
+.testo{
+    padding-top: 50px;
+}
+.testomonial{
+    padding-top: 70px;
+}
+.man{
+    height: 120px;
+    width: 120pxs;
+    padding-bottom: 20px;
+}
+.black{
+    color: white;
+    padding-top: 100px;
+    width: 1440px;
+    height: 369px;
+    background-color: black;
+}
+.col-5{
+    padding-left: 10px;
+}
+.hero{
+    padding-top: 50px;
+}
